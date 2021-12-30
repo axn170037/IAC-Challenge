@@ -1,6 +1,6 @@
+# IAC-Challenge
 We analyzed the various insights about the state of the world’s children across different dimensions. We detail the methodology used to extract useful information from the various indicators under each dimension and rank countries based on the extracted score. We discuss the inhibitors for improving the Children’s growth and programs undertaken by successful countries which can be cross-pollinated.
 
-# IAC-Challenge
 Link to our Tableau Public Story: https://public.tableau.com/views/IACSubmission_15933688773300/IAC?:language=en-GB&:display_count=y&publish=yes&:origin=viz_share_link
 
 # DATA DESCRIPTION: 
